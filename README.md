@@ -1,5 +1,3 @@
-# StudentRecordSystem
-
 # Student Record Management System
 
 A console-based Java application to manage student records using JDBC and MySQL.
